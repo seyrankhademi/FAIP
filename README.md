@@ -1,1 +1,1 @@
-# FAIP
+# Introduction to Computer Vision 
